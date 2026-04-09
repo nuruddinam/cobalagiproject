@@ -27,3 +27,5 @@ WebUI.openBrowser('')
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
